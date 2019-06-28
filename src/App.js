@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Weather app with React Hooks!</h1>
+      <h4>Testing</h4>
     </div>
   );
 }
